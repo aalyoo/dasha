@@ -1,0 +1,89 @@
+.main {
+  width:auto;
+  height: auto;
+  padding:0 5px;
+}
+
+.main-left {
+  box-sizing:border-box;
+  border:solid #7e817e;
+  float:left;
+  width: 20%;
+  height:rem;
+  padding:0 5px;
+  overflow: auto;
+  height: 80vh;
+}
+
+.main-left-header{
+  background-color:#c0ced1;
+}
+
+.main-left-search-search{
+  box-sizing:content-box;
+  display: inline-block;
+  width:30%;
+  border: solid black;
+}
+
+.Filtr{
+  display: inline-block;
+  width:30%;
+  border: solid black;
+}
+
+.Ham{
+  box-sizing:content-box;
+  display: inline-block;
+  width:30%;
+  border: solid black;
+}
+
+.main-right-header{
+   background-color:#c0ced1;
+   margin: 0px;
+}
+
+.main-right-header-info{
+background-color:inherit;
+overflow:hidden;
+
+}
+
+.main-right-header-info-1{
+  float:left;
+  background-color:inherit;
+  width:20%;
+  height:relative;
+}
+
+.Status{
+  float:right;
+  background-color:inherit;
+  width:80%;
+  height:relative;
+}
+
+.Item{
+  box-sizing:border-box;
+}
+.Customer{
+  box-sizing:border-box;
+ }
+
+.main-right{
+  box-sizing:border-box;
+  border:solid #7e817e; 
+  float:right;
+  width:80%;
+  height: 80vh;
+  padding:0 5px;
+  overflow: auto;
+
+}
+
+.footer {
+   box-sizing:border-box;
+   
+   float:bottom;
+}
